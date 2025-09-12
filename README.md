@@ -52,5 +52,5 @@ The dashboard provides an interactive way to analyze **sales performance, outlet
 - 🍎 Item categories like **Fruits, Snacks, and Household items** dominate sales.  
 
 ---
-b.com/your-username/blinkit-sales-dashboard.git
+Data Analyst/Piyush-More04/blinkit-sales-dashboard.git
 
