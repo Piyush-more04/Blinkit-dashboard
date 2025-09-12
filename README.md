@@ -34,7 +34,7 @@ The dashboard provides an interactive way to analyze **sales performance, outlet
 ---
 
 ## 📷 Dashboard Preview
-![Blinkit Sales Dashboard](./Snapshot of the dashboard.jpg)
+![Blinkit Sales Dashboard](https://github.com/Piyush-more04/Blinkit-dashboard/blob/main/Snapshot%20of%20the%20dashboard.jpg)
 
 ---
 
